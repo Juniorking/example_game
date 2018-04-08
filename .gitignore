@@ -1,0 +1,4 @@
+/example_game/Library
+/example_game/Temp
+/example_game/*.csproj
+/example_game/*.sln
